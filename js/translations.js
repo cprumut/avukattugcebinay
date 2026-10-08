@@ -13,7 +13,6 @@ const translations = {
     "hero-title": "Hukuki Sorunlarınıza Profesyonel Çözümler",
     "hero-subtitle":
       "Yılların deneyimi ve uzmanlığıyla hukuki danışmanlık hizmetleri sunuyoruz.",
-    "hero-button": "Randevu Al",
 
     // Hakkımızda Bölümü
     "about-title": "Hakkımızda",
@@ -76,39 +75,18 @@ const translations = {
     // İletişim Bölümü
     "contact-title": "İletişim",
     "address-title": "Adres",
-    "address-text":
-      "Ulus Mah. Beşiktaş/İstanbul",
+    "address-text": "Ulus Mah. Beşiktaş/İstanbul",
     "phone-title": "Telefon",
-    "phone-text": "+90 0 (505) 046 92 56",
     "email-title": "E-posta",
-    "email-text": "av.tugcebinay@gmail.com",
     "hours-title": "Çalışma Saatleri",
     "hours-text": "Pazartesi - Cumartesi: 09:00 - 18:00",
-
-    // Form
-    "name-placeholder": "Adınız Soyadınız",
-    "email-placeholder": "E-posta Adresiniz",
-    "phone-placeholder": "Telefon Numaranız",
-    "subject-placeholder": "Konu Seçiniz",
-    "message-placeholder": "Mesajınız",
-    "select-subject": "Konu Seçiniz",
-    "subject-family": "Aile Hukuku",
-    "subject-criminal": "Ceza Hukuku",
-    "subject-realestate": "Gayrimenkul Hukuku",
-    "subject-labor": "İş Hukuku",
-    "subject-commercial": "Ticaret Hukuku",
-    "subject-other": "Diğer",
-    "submit-button": "Gönder",
 
     // Footer
     "footer-title": "Avukat Tuğçe Binay",
     "footer-subtitle": "Hukuki sorunlarınıza profesyonel çözümler.",
     "quick-links": "Hızlı Bağlantılar",
     "contact-info": "İletişim",
-    "footer-address":
-      "Ulus Mah. Beşiktaş/İstanbul",
-    "footer-phone": "+90 0 (505) 046 92 56",
-    "footer-email": "av.tugcebinay@gmail.com",
+    "footer-address": "Ulus Mah. Beşiktaş/İstanbul",
     copyright: "Tüm Hakları Saklıdır.",
     "footer-name": "Avukat Tuğçe Binay",
   },
@@ -126,15 +104,18 @@ const translations = {
     "hero-title": "Professional Legal Solutions for Your Problems",
     "hero-subtitle":
       "Providing legal consultancy services with years of experience and expertise.",
-    "hero-button": "Get Appointment",
 
     // About Section
     "about-title": "About Us",
-    "lawyer-name": "Atty. Name Surname",
+    "lawyer-name": "Attorney Tuğçe Binay",
     "about-text-1":
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
+      "Attorney Tuğçe Binay was born in Ankara in 1994 and graduated from Istanbul University Faculty of Law in 2017. In 2020, she began her master's degree in Private Law at the Institute of Social Sciences of Selçuk University.",
     "about-text-2":
-      "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+      "She is an experienced attorney who specializes in many areas of law and offers her clients a wide range of legal services. With the knowledge and experience she has gained in various branches of law, she provides professional consultancy and representation to individual and corporate clients.",
+    "about-text-3":
+      "She practices in Istanbul and in many other provinces. Combining the academic knowledge gained during her legal education with practical professional experience, Attorney Tuğçe Binay provides corporate representation, consultancy for foreign nationals, and legal support in immigration administration procedures. Her main areas of practice are Foreigners Law, Enforcement and Bankruptcy Law, Compensation Law, Labor and Social Security Law, immigration administration procedures, Commercial Law, Criminal Law, and Real Estate Law.",
+    "about-text-4":
+      "She has received training and certificates in party representation in arbitration, the individual application procedure and admissibility criteria of the European Court of Human Rights, conciliation, mediation, personal data protection law, and family law.",
     "education-title": "Education",
     "education-text": "Istanbul University Faculty of Law",
     "experience-title": "Experience",
@@ -182,41 +163,20 @@ const translations = {
     // Contact Section
     "contact-title": "Contact",
     "address-title": "Address",
-    "address-text":
-      "Ulus Mah. Beşiktaş/İstanbul",
+    "address-text": "Ulus Mah. Beşiktaş/İstanbul",
     "phone-title": "Phone",
-    "phone-text": "+90 0 (505) 046 92 56",
     "email-title": "Email",
-    "email-text": "av.tugcebinay@gmail.com",
     "hours-title": "Working Hours",
     "hours-text": "Monday - Saturday: 09:00 - 18:00",
 
-    // Form
-    "name-placeholder": "Your Name and Surname",
-    "email-placeholder": "Your Email Address",
-    "phone-placeholder": "Your Phone Number",
-    "subject-placeholder": "Select Subject",
-    "message-placeholder": "Your Message",
-    "select-subject": "Select Subject",
-    "subject-family": "Family Law",
-    "subject-criminal": "Criminal Law",
-    "subject-realestate": "Real Estate Law",
-    "subject-labor": "Labor Law",
-    "subject-commercial": "Commercial Law",
-    "subject-other": "Other",
-    "submit-button": "Send",
-
     // Footer
-    "footer-title": "Atty. Name Surname",
+    "footer-title": "Attorney Tuğçe Binay",
     "footer-subtitle": "Professional solutions for your legal problems.",
     "quick-links": "Quick Links",
     "contact-info": "Contact",
-    "footer-address":
-      "Ulus Mah. Beşiktaş/İstanbul",
-    "footer-phone": "+90 0 (505) 046 92 56",
-    "footer-email": "av.tugcebinay@gmail.com",
+    "footer-address": "Ulus Mah. Beşiktaş/İstanbul",
     copyright: "All Rights Reserved.",
-    "footer-name": "Atty. Name Surname",
+    "footer-name": "Attorney Tuğçe Binay",
   },
 
   // Arapça çeviriler
@@ -231,19 +191,22 @@ const translations = {
     // قسم البطل
     "hero-title": "حلول قانونية احترافية لمشاكلك",
     "hero-subtitle": "تقديم خدمات استشارية قانونية بسنوات من الخبرة والمعرفة.",
-    "hero-button": "احصل على موعد",
 
     // قسم من نحن
     "about-title": "من نحن",
-    "lawyer-name": "المحامي الاسم واللقب",
+    "lawyer-name": "المحامية توتشه بيناي",
     "about-text-1":
-      "هنالك العديد من الأنواع المتوفرة لنصوص لوريم إيبسوم، ولكن الغالبية تم تعديلها بشكل ما عبر إدخال بعض النوادر أو الكلمات العشوائية إلى النص.",
+      "وُلدت المحامية توتشه بيناي في أنقرة عام 1994، وتخرجت من كلية الحقوق بجامعة إسطنبول عام 2017. وفي عام 2020 بدأت دراسة الماجستير في القانون الخاص في معهد العلوم الاجتماعية بجامعة سلجوق.",
     "about-text-2":
-      "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها.",
+      "وهي محامية ذات خبرة متخصصة في العديد من مجالات القانون، وتقدم لموكليها مجموعة واسعة من الخدمات القانونية. وبفضل المعرفة والخبرة التي اكتسبتها في مختلف فروع القانون، تقدم خدمات الاستشارة والتمثيل المهني لموكليها من الأفراد والشركات.",
+    "about-text-3":
+      "تمارس نشاطها المهني في إسطنبول وفي العديد من المحافظات الأخرى. وتجمع المحامية توتشه بيناي بين المعرفة الأكاديمية التي اكتسبتها خلال دراستها القانونية والخبرة العملية في حياتها المهنية، وتقدم خدمات الوكالة القانونية للشركات، والاستشارات للأجانب، والدعم القانوني في إجراءات إدارة الهجرة. ومن أبرز مجالات عملها: قانون الأجانب، وقانون التنفيذ والإفلاس، وقانون التعويضات، وقانون العمل والضمان الاجتماعي، وإجراءات إدارة الهجرة، والقانون التجاري، والقانون الجنائي، وقانون العقارات.",
+    "about-text-4":
+      "حصلت على تدريبات وشهادات في تمثيل الأطراف في التحكيم، وإجراءات تقديم الطلبات الفردية ومعايير المقبولية أمام المحكمة الأوروبية لحقوق الإنسان، والتوفيق، والوساطة، وقانون حماية البيانات الشخصية، وقانون الأسرة.",
     "education-title": "التعليم",
-    "education-text": "كلية الحقوق بجامعة اسطنبول",
+    "education-text": "كلية الحقوق بجامعة إسطنبول",
     "experience-title": "الخبرة",
-    "experience-text": "أكثر من 15 سنة من الخبرة المهنية",
+    "experience-text": "أكثر من 5 سنوات من الخبرة المهنية",
 
     // قسم الخدمات
     "services-title": "خدماتنا",
@@ -283,41 +246,20 @@ const translations = {
     // قسم الاتصال
     "contact-title": "اتصل بنا",
     "address-title": "العنوان",
-    "address-text":
-      "حي أولوس، بشكتاش، إسطنبول",
+    "address-text": "حي أولوس، بشكتاش، إسطنبول",
     "phone-title": "الهاتف",
-    "phone-text": "+90 0 (505) 046 92 56",
     "email-title": "البريد الإلكتروني",
-    "email-text": "av.tugcebinay@gmail.com",
     "hours-title": "ساعات العمل",
     "hours-text": "الاثنين - السبت: 09:00 - 18:00",
 
-    // النموذج
-    "name-placeholder": "اسمك ولقبك",
-    "email-placeholder": "عنوان بريدك الإلكتروني",
-    "phone-placeholder": "رقم هاتفك",
-    "subject-placeholder": "اختر الموضوع",
-    "message-placeholder": "رسالتك",
-    "select-subject": "اختر الموضوع",
-    "subject-family": "قانون الأسرة",
-    "subject-criminal": "القانون الجنائي",
-    "subject-realestate": "حقوق العقارات",
-    "subject-labor": "حقوق العمل",
-    "subject-commercial": "حقوق التجارة",
-    "subject-other": "سایر",
-    "submit-button": "ارسال",
-
     // تذييل الصفحة
-    "footer-title": "المحامي الاسم واللقب",
+    "footer-title": "المحامية توتشه بيناي",
     "footer-subtitle": "حلول احترافية لمشاكلك القانونية.",
     "quick-links": "روابط سريعة",
-    "contact-info": "اطلاعات تماس",
-    "footer-address":
-      "حي أولوس، بشكتاش، إسطنبول",
-    "footer-phone": "+90 0 (505) 046 92 56",
-    "footer-email": "av.tugcebinay@gmail.com",
+    "contact-info": "معلومات الاتصال",
+    "footer-address": "حي أولوس، بشكتاش، إسطنبول",
     copyright: "جميع الحقوق محفوظة.",
-    "footer-name": "المحامي الاسم واللقب",
+    "footer-name": "المحامية توتشه بيناي",
   },
 
   // فارسی (Persian) translations
@@ -332,19 +274,22 @@ const translations = {
     // بخش قهرمان
     "hero-title": "راه حل‌های حقوقی حرفه‌ای برای مشکلات شما",
     "hero-subtitle": "ارائه خدمات مشاوره حقوقی با سال‌ها تجربه و تخصص.",
-    "hero-button": "دریافت وقت ملاقات",
 
     // بخش درباره ما
     "about-title": "درباره ما",
-    "lawyer-name": "وکیل نام و نام خانوادگی",
+    "lawyer-name": "وکیل توچه بینای",
     "about-text-1":
-      "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.",
+      "وکیل توچه بینای در سال ۱۹۹۴ در آنکارا متولد شد و در سال ۲۰۱۷ از دانشکده حقوق دانشگاه استانبول فارغ‌التحصیل شد. وی در سال ۲۰۲۰ تحصیلات کارشناسی ارشد خود را در رشته حقوق خصوصی در مؤسسه علوم اجتماعی دانشگاه سلجوق آغاز کرد.",
     "about-text-2":
-      "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است.",
+      "او وکیلی باتجربه و متخصص در بسیاری از حوزه‌های حقوقی است که طیف گسترده‌ای از خدمات حقوقی را به موکلان خود ارائه می‌دهد. وی با دانش و تجربه‌ای که در شاخه‌های مختلف حقوق کسب کرده است، به موکلان حقیقی و حقوقی خود خدمات مشاوره و وکالت حرفه‌ای ارائه می‌کند.",
+    "about-text-3":
+      "وی فعالیت حرفه‌ای خود را در استانبول و بسیاری از استان‌های دیگر ادامه می‌دهد. وکیل توچه بینای با تلفیق دانش آکادمیک دوران تحصیل حقوق با تجربه عملی در زندگی حرفه‌ای، خدمات وکالت شرکت‌ها، مشاوره به اتباع خارجی و پشتیبانی حقوقی در امور اداره مهاجرت را ارائه می‌دهد. حوزه‌های تخصصی اصلی او عبارتند از: حقوق اتباع خارجی، حقوق اجرا و ورشکستگی، حقوق خسارت، حقوق کار و تأمین اجتماعی، امور اداره مهاجرت، حقوق تجارت، حقوق جزا و حقوق املاک.",
+    "about-text-4":
+      "وی دوره‌های آموزشی و گواهینامه‌هایی در زمینه وکالت طرفین در داوری، رویه درخواست فردی و معیارهای پذیرش در دادگاه اروپایی حقوق بشر، سازش، میانجی‌گری، حقوق حفاظت از داده‌های شخصی و حقوق خانواده دریافت کرده است.",
     "education-title": "تحصیلات",
     "education-text": "دانشکده حقوق دانشگاه استانبول",
     "experience-title": "تجربه",
-    "experience-text": "بیش از ۱۵ سال تجربه حرفه‌ای",
+    "experience-text": "بیش از ۵ سال تجربه حرفه‌ای",
 
     // بخش خدمات
     "services-title": "خدمات ما",
@@ -380,40 +325,19 @@ const translations = {
     // بخش تماس
     "contact-title": "تماس با ما",
     "address-title": "آدرس",
-    "address-text":
-      "محله اولوس، بشیکتاش / استانبول",
+    "address-text": "محله اولوس، بشیکتاش / استانبول",
     "phone-title": "تلفن",
-    "phone-text": "+90 0 (505) 046 92 56",
-    "email-title": "البريد الإلكتروني",
-    "email-text": "av.tugcebinay@gmail.com",
+    "email-title": "ایمیل",
     "hours-title": "ساعات کاری",
     "hours-text": "دوشنبه - شنبه: 09:00 - 18:00",
 
-    // النموذج
-    "name-placeholder": "نام و نام خانوادگی شما",
-    "email-placeholder": "آدرس ایمیل شما",
-    "phone-placeholder": "رقم هاتفك",
-    "subject-placeholder": "اختر الموضوع",
-    "message-placeholder": "رسالتك",
-    "select-subject": "موضوع را انتخاب کنید",
-    "subject-family": "حقوق خانواده",
-    "subject-criminal": "حقوق کیفری",
-    "subject-realestate": "حقوق املاک",
-    "subject-labor": "حقوق کار",
-    "subject-commercial": "حقوق تجارت",
-    "subject-other": "سایر",
-    "submit-button": "ارسال",
-
     // پاورقی
-    "footer-title": "وکیل نام و نام خانوادگی",
+    "footer-title": "وکیل توچه بینای",
     "footer-subtitle": "راه حل‌های حرفه‌ای برای مشکلات حقوقی شما.",
     "quick-links": "لینک‌های سریع",
     "contact-info": "اطلاعات تماس",
-    "footer-address":
-      "محله اولوس، بشیکتاش / استانبول",
-    "footer-phone": "+90 0 (505) 046 92 56",
-    "footer-email": "av.tugcebinay@gmail.com",
+    "footer-address": "محله اولوس، بشیکتاش / استانبول",
     copyright: "تمامی حقوق محفوظ است.",
-    "footer-name": "وکیل نام و نام خانوادگی",
+    "footer-name": "وکیل توچه بینای",
   },
 };
