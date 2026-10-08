@@ -77,7 +77,7 @@ const translations = {
     "contact-title": "İletişim",
     "address-title": "Adres",
     "address-text":
-      "Sahil Mah. Kocatepe Cad. No:291 Duru İş Merkezi D:13 Beylikdüzü / İstanbul",
+      "Ulus Mah. Beşiktaş/İstanbul",
     "phone-title": "Telefon",
     "phone-text": "+90 0 (505) 046 92 56",
     "email-title": "E-posta",
@@ -106,7 +106,7 @@ const translations = {
     "quick-links": "Hızlı Bağlantılar",
     "contact-info": "İletişim",
     "footer-address":
-      "Sahil Mah. Kocatepe Cad. No:291 Duru İş Merkezi D:13 Beylikdüzü / İstanbul",
+      "Ulus Mah. Beşiktaş/İstanbul",
     "footer-phone": "+90 0 (505) 046 92 56",
     "footer-email": "av.tugcebinay@gmail.com",
     copyright: "Tüm Hakları Saklıdır.",
@@ -183,7 +183,7 @@ const translations = {
     "contact-title": "Contact",
     "address-title": "Address",
     "address-text":
-      "Sahil Mah. Kocatepe Cad. No:291 Duru Business Center D:13 Beylikdüzü / Istanbul",
+      "Ulus Mah. Beşiktaş/İstanbul",
     "phone-title": "Phone",
     "phone-text": "+90 0 (505) 046 92 56",
     "email-title": "Email",
@@ -212,7 +212,7 @@ const translations = {
     "quick-links": "Quick Links",
     "contact-info": "Contact",
     "footer-address":
-      "Sahil Mah. Kocatepe Cad. No:291 Duru Business Center D:13 Beylikdüzü / Istanbul",
+      "Ulus Mah. Beşiktaş/İstanbul",
     "footer-phone": "+90 0 (505) 046 92 56",
     "footer-email": "av.tugcebinay@gmail.com",
     copyright: "All Rights Reserved.",
@@ -284,7 +284,7 @@ const translations = {
     "contact-title": "اتصل بنا",
     "address-title": "العنوان",
     "address-text":
-      "حي ساحل، خيابان کوجاتپه، شماره 291، مركز تجاري دورو، واحد 13، بيليكدوزو / استانبول",
+      "حي أولوس، بشكتاش، إسطنبول",
     "phone-title": "الهاتف",
     "phone-text": "+90 0 (505) 046 92 56",
     "email-title": "البريد الإلكتروني",
@@ -313,7 +313,7 @@ const translations = {
     "quick-links": "روابط سريعة",
     "contact-info": "اطلاعات تماس",
     "footer-address":
-      "حي ساحل، شارع كوجاتبه، رقم 291، مركز تجاري دورو، واحد 13، بيليكدوزو / استانبول",
+      "حي أولوس، بشكتاش، إسطنبول",
     "footer-phone": "+90 0 (505) 046 92 56",
     "footer-email": "av.tugcebinay@gmail.com",
     copyright: "جميع الحقوق محفوظة.",
@@ -381,7 +381,7 @@ const translations = {
     "contact-title": "تماس با ما",
     "address-title": "آدرس",
     "address-text":
-      "محله ساحل، خیابان کوجاتپه، شماره 291، مرکز تجاری دورو، واحد 13، بیلیکدوزو / استانبول",
+      "محله اولوس، بشیکتاش / استانبول",
     "phone-title": "تلفن",
     "phone-text": "+90 0 (505) 046 92 56",
     "email-title": "البريد الإلكتروني",
@@ -410,7 +410,7 @@ const translations = {
     "quick-links": "لینک‌های سریع",
     "contact-info": "اطلاعات تماس",
     "footer-address":
-      "محله ساحل، خیابان کوجاتپه، شماره 291، مرکز تجاری دورو، واحد 13، بیلیکدوزو / استانبول",
+      "محله اولوس، بشیکتاش / استانبول",
     "footer-phone": "+90 0 (505) 046 92 56",
     "footer-email": "av.tugcebinay@gmail.com",
     copyright: "تمامی حقوق محفوظ است.",
